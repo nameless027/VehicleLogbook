@@ -1,0 +1,1 @@
+# No custom rules required; minification is disabled by default.
