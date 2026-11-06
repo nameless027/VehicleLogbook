@@ -19,3 +19,8 @@ keystore
 *.jks
 *.keystore
 keystore.properties
+
+# IDE и артефакты сборки
+.idea/
+app/release/
+*.apk

@@ -22,7 +22,7 @@ android {
         applicationId = "com.fuellog.app"
         minSdk = 29          // Android 10+
         targetSdk = 34
-        versionCode = 2
+        versionCode = 3
         versionName = "1.0.4"  // Меняем версию при каждой новой сборки
     }
 
