@@ -23,7 +23,7 @@ android {
         minSdk = 29          // Android 10+
         targetSdk = 34
         versionCode = 2
-        versionName = "1.0.3"  // Меняем версию при каждой новой сборки
+        versionName = "1.0.4"  // Меняем версию при каждой новой сборки
     }
 
     signingConfigs {
